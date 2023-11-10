@@ -1,0 +1,8 @@
+prefix=/home/hafizh/contohprog/devel
+
+Name: tutorial
+Description: Description of tutorial
+Version: 0.0.0
+Cflags: -I/home/hafizh/contohprog/src/tutorial/include
+Libs: -L${prefix}/lib -ltutorial
+Requires: roscpp rospy std_msgs

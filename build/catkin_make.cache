@@ -1,0 +1,2 @@
+tutorial
+-DCATKIN_DEVEL_PREFIX=/home/hafizh/contohprog/devel -DCMAKE_INSTALL_PREFIX=/home/hafizh/contohprog/install -G Unix Makefiles
